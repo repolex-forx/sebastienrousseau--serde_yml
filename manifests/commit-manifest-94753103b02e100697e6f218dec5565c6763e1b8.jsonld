@@ -1,0 +1,45 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/sebastienrousseau/serde_yml/commit/94753103b02e100697e6f218dec5565c6763e1b8",
+  "@type": "git:Commit",
+  "git:hexsha": "94753103b02e100697e6f218dec5565c6763e1b8",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/sebastienrousseau/serde_yml"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/94753103b02e100697e6f218dec5565c6763e1b8.nq.gz",
+      "repolex:graphFileSize": 26432
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 534620
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 514
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 1074
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 66349
+    }
+  ],
+  "repolex:parseStatus": "parsed",
+  "repolex:parsedAt": "2026-09-15T04:39:45.909330+00:00",
+  "repolex:parserVersion": "0.1.0",
+  "git:tagName": "v0.0.11"
+}

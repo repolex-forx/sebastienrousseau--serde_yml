@@ -27,8 +27,9 @@
     {
       "@id": "https://repolex.ai/r/sebastienrousseau/serde_yml/commit/94753103b02e100697e6f218dec5565c6763e1b8",
       "git:hexsha": "94753103b02e100697e6f218dec5565c6763e1b8",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v0.0.11"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.0.11",
+      "repolex:parsedAt": "2026-09-15T04:39:45.909438+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sebastienrousseau/serde_yml/commit/2bf9497840157eba6b4535ecbf0e6ebab3033356",
